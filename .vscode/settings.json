@@ -1,0 +1,26 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\dydwn\\Desktop\\javafx-sdk-19\\lib\\javafx.base.jar",
+            "c:\\Users\\dydwn\\Desktop\\javafx-sdk-19\\lib\\javafx.controls.jar",
+            "c:\\Users\\dydwn\\Desktop\\javafx-sdk-19\\lib\\javafx.fxml.jar",
+            "c:\\Users\\dydwn\\Desktop\\javafx-sdk-19\\lib\\javafx.graphics.jar",
+            "c:\\Users\\dydwn\\Desktop\\javafx-sdk-19\\lib\\javafx.media.jar",
+            "c:\\Users\\dydwn\\Desktop\\javafx-sdk-19\\lib\\javafx.swing.jar",
+            "c:\\Users\\dydwn\\Desktop\\javafx-sdk-19\\lib\\javafx.web.jar",
+            "c:\\Users\\dydwn\\Desktop\\javafx-sdk-19\\lib\\javafx-swt.jar",
+            "javafx.base.jar",
+            "javafx.controls.jar",
+            "javafx.fxml.jar",
+            "javafx.graphics.jar",
+            "javafx.media.jar",
+            "javafx.swing.jar",
+            "javafx.web.jar",
+            "javafx-swt.jar"
+        ],
+        "exclude": [
+            "c:\\webtoon\\jsoup-1.15.3.jar"
+        ]
+    }
+}
